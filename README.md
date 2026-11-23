@@ -1,25 +1,59 @@
+
 # Hi, I'm Gonçalo! 👋
 
-I'm a Junior Developer with a background in Web and Mobile Development. I have a strong interest in web and mobile app development.
+### Junior Software Developer | Fullstack & Web Development
 
-I enjoy building applications and learning new technologies.
+I'm a Junior Software Developer with a background in Web and Mobile Development.
 
-### Technologies I'm working with
+I enjoy building applications, solving problems, and learning new technologies. I'm currently focusing on improving my fullstack development skills and building practical projects.
 
-- Front-end: Angular, TypeScript, React
-- Back-end: C#, .NET, Express.JS, ASP.NET Core
-- Database: SQL, PostgreSQL
-- Mobile: Flutter, React Native, Kotlin Multiplatform
-- Tools: Git, GitHub, Docker
+### 🛠️ Technologies & Tools
 
-### Current Project
+**Frontend**
+- HTML, CSS, JavaScript
+- TypeScript
+- Angular
+- React
 
-**Energy Asset Monitor**
+**Backend**
+- C#
+- ASP.NET Core
+- Java
+- REST APIs
 
-A web app to manage renewable energy assets, such as solar parks, wind farms, and batteries.
+**Database**
+- PostgreSQL
+- MySQL
 
-### About Me
+**Tools**
+- Git & GitHub
+- Docker
+- Visual Studio Code
+- Android Studio
 
-- 🎓 Graduated in Web and Mobile Device Development (Undergraduate Degree).
-- 💻 Interested in Fullstack Development.
-- 📚 Always learning and improving my programming skills.
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Energy Asset Monitor](https://github.com/X1Gms/Energy-Asset-Monitor) | A fullstack application for managing renewable energy assets. | Angular, C#, .NET, PostgreSQL |
+| [Gasify](https://github.com/X1Gms/Gasify) | An IoT project for gas monitoring. | Java, JavaScript, ESP32 |
+| [Bright Burger](https://github.com/X1Gms/Bright_Burger) | A web application built with Angular. | Angular, TypeScript |
+| [To-Do List](https://github.com/X1Gms/To-Do-List-Challenge) | A task management application. | React, JavaScript |
+
+### 🎯 Currently Learning
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- ASP.NET Core Web API
+- Angular
+- SQL and Database Design
+- Software Testing
+
+### 📫 Contact
+
+- GitHub: [@X1Gms](https://github.com/X1Gms)
+- [Portfolio](https://x1g-portfolio.vercel.app/)
+
+---
+
+*Always learning, building, and improving.*
