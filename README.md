@@ -1,7 +1,7 @@
 
 # Hi, I'm Gonçalo! 👋
 
-### Junior Software Developer | Fullstack & Web Development
+### Junior Software Developer | Fullstack & Mobile Development
 
 I'm a Junior Software Developer with a background in Web and Mobile Development.
 
