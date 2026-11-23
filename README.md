@@ -13,10 +13,10 @@ I enjoy building applications, solving problems, and learning new technologies. 
 - HTML, CSS, JavaScript, TypeScript, Angular, React;
 
 **Backend**
-- C#, ASP.NET Core, Java, REST APIs;
+- C#, Node.js, Express.js, ASP.NET Core, Java, REST APIs;
 
 **Database**
-- PostgreSQL, MySQL;
+- PostgreSQL, MySQL, MongoDB;
 
 **Tools**
 - Git & GitHub, Docker, Visual Studio Code, Android Studio.
