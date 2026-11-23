@@ -10,26 +10,16 @@ I enjoy building applications, solving problems, and learning new technologies. 
 ### 🛠️ Technologies & Tools
 
 **Frontend**
-- HTML, CSS, JavaScript
-- TypeScript
-- Angular
-- React
+- HTML, CSS, JavaScript, TypeScript, Angular, React;
 
 **Backend**
-- C#
-- ASP.NET Core
-- Java
-- REST APIs
+- C#, ASP.NET Core, Java, REST APIs;
 
 **Database**
-- PostgreSQL
-- MySQL
+- PostgreSQL, MySQL;
 
 **Tools**
-- Git & GitHub
-- Docker
-- Visual Studio Code
-- Android Studio
+- Git & GitHub, Docker, Visual Studio Code, Android Studio.
 
 ### 🚀 Featured Projects
 
