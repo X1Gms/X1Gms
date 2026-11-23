@@ -28,6 +28,8 @@ I enjoy building applications, solving problems, and learning new technologies. 
 | [Energy Asset Monitor](https://github.com/X1Gms/Energy-Asset-Monitor) | A fullstack application for managing renewable energy assets. | Angular, C#, .NET, PostgreSQL |
 | [Gasify](https://github.com/X1Gms/Gasify) | An IoT project for gas monitoring. | Java, JavaScript, ESP32 |
 | [Bright Burger](https://github.com/X1Gms/Bright_Burger) | A web application built with Angular. | Angular, TypeScript |
+| [On Fire](https://github.com/X1Gms/OnFire) | An Android App that tracks physical activity. | Android, Java, Android Studio |
+| [Scooty Charge](https://github.com/X1Gms/Scooty_Charge) | A C application designed to manage the loading of scooters | C, GTK4 |
 | [To-Do List](https://github.com/X1Gms/To-Do-List-Challenge) | A task management application. | React, JavaScript |
 
 ### 🎯 Currently Learning
