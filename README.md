@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gonçalo! 👋
 
-<!--
-**X1Gms/X1Gms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Developer with a background in Web and Mobile Development. I have a strong interest in web and mobile app development.
 
-Here are some ideas to get you started:
+I enjoy building applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I'm working with
+
+- Front-end: Angular, TypeScript, React
+- Back-end: C#, .NET, Express.JS, ASP.NET Core
+- Database: SQL, PostgreSQL
+- Mobile: Flutter, React Native, Kotlin Multiplatform
+- Tools: Git, GitHub, Docker
+
+### Current Project
+
+**Energy Asset Monitor**
+
+A web app to manage renewable energy assets, such as solar parks, wind farms, and batteries.
+
+### About Me
+
+- 🎓 Graduated in Web and Mobile Device Development (Undergraduate Degree).
+- 💻 Interested in Fullstack Development.
+- 📚 Always learning and improving my programming skills.
